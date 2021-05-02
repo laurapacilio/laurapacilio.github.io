@@ -27,5 +27,5 @@ When I worked as a Lab Manager at Carnegie Mellon University, I managed every pa
 * **Software:** Google Docs
 * **Audience:** Lab members who were assumed to have no prior knowledge of Dreamweaver or web design
 
-#### Check it out: <a href="laurapacilio.github.io/pics-pdfs/Updating_Website_Sample.pdf" target="_blank">Updating the Lab Website</a>
-<br><br>
+#### Check it out:
+<a href="/pics-pdfs/Updating_Website_Sample.pdf" target="_blank">Updating the Lab Website</a>
