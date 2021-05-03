@@ -1,5 +1,5 @@
 ## About Me
-From software documentation to internal engineering newsletters, my greatest strength is distilling complex ideas and processes into clear and compelling content that streamlines work, drives alignment, and engages a wide range of audiences. 
+From software documentation to internal engineering newsletters, my greatest strength is distilling complex ideas and processes into clear and compelling content that streamlines work, drives alignment, and engages a wide range of audiences. Throughout my career, I've also enjoyed coaching non-writers, collaborating with product and design teams, and finding ways to bring technology to life. 
 
 <a href="https://www.linkedin.com/in/laura-pacilio/">Find me on LinkedIn</a> 
 <br><br>
@@ -14,7 +14,8 @@ This is my professional portfolio website where you can find samples of my work.
 
 ## View my portfolio
 You can find my portfolio here: <a href="https://laurapacilio.github.io/">Laura Pacilio | Professional Portfolio</a>
-I'm slowly customizing the theme and adding more content, so just know that it's a work in progress! Please reach out if you'd like to see additional samples or need further information. 
+
+I'm slowly customizing the theme and adding more content, so just know that it's a work in progress! Please reach out if you'd like to see additional samples or need further information about my experience. 
 <br><br>
 
 ## View my portfolio code
