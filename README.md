@@ -5,7 +5,7 @@ From software documentation to internal engineering newsletters, my greatest str
 <br><br>
 
 ## What is this?
-This is my professional portfolio website where you can find samples of my work. In addition to being a functional portfolio, this site is meant to demonstrate that:
+This is a repository for my professional portfolio website, built using GitHub pages and Jekyll. In addition to being a functional portfolio, this site is meant to demonstrate that:
 * I have experience writing Markdown and HTML by hand. 
 * I can use version control systems. Check out my commit history!
 * I have experience using the command line. I work on my website locally and use the command line to stage my changes, write commit messages, and then push my changes here to GitHub.
