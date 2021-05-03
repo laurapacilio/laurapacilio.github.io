@@ -11,3 +11,6 @@ This is my professional portfolio website where you can find samples of my work.
 ## View my portfolio
 You can find my portfolio here: <a href="https://laurapacilio.github.io/">Laura Pacilio | Professional Portfolio</a>
 I'm slowly customizing the theme and adding more content, so just know that it's a work in progress! Please reach out if you'd like to see additional samples or need further information. 
+
+## View my portfolio code
+I keep all of the code for my portfolio on the gh-pages branch of this repository. 
