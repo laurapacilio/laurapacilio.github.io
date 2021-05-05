@@ -29,3 +29,35 @@ When I worked as a Lab Manager at Carnegie Mellon University, I managed every pa
 
 #### Check it out:
 <a href="/pics-pdfs/Updating_Website_Sample.pdf" target="_blank">Updating the Lab Website</a>
+
+<br><br>
+
+# recBoat User Manual
+While in graduate school, I was contracted to work on a short-term project for a
+research group at the National Robotics Engineering Center (NREC). The group
+needed an operations manual for an autonomous research vessel called recBoat. I
+met with the engineering team, learned the processes, and then worked with them
+to acquire photographs that would illustrate the tasks. Below, I include an excerpt
+from the manual.
+
+* **Written:** September 2015
+* **Software:** Microsoft Word
+* **Audience:** recBoat users who have some prior experience and an intermediate level
+of knowledge of boat operations
+
+#### Check it out:
+<a href="/pics-pdfs/XMind_Topics_Samples.pdf" target="_blank">Updating the Lab Website</a>
+
+<br><br>
+
+# XMind User Assistance
+Mind mapping is a way of organizing information and ideas visually, and XMind was one of the leading mind mapping software programs on the market when I took Carnegie Mellon University's Software Documentation course. My team and I learned to use XMind and conducted a content audit of XMind's current user assistance as well as a competitive analysis comparing XMind's user assistance to that of two mind mapping competitor softwares.
+
+We then created a comprehensive online information center that provided user assistance for the main functionality in each of XMind's three versions: Basic, Plus, and Pro. Below are some of the topics that I was responsible for writing. Note that each sample was authored in DITA.
+
+* **Written:** May 2015
+* **Software:** Oxygen XML Author
+* **Audience:** XMind users
+
+#### Check it out:
+<a href="/pics-pdfs/XMind_Topics_Samples.pdf" target="_blank">Updating the Lab Website</a>
