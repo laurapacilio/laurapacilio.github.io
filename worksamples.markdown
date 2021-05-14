@@ -46,7 +46,7 @@ from the manual.
 of knowledge of boat operations
 
 #### Check it out:
-<a href="/pics-pdfs/XMind_Topics_Samples.pdf" target="_blank">Updating the Lab Website</a>
+<a href="/pics-pdfs/recBoat_Sample.pdf" target="_blank">recBoat User Manual Excerpt</a>
 
 <br><br>
 
@@ -60,4 +60,4 @@ We then created a comprehensive online information center that provided user ass
 * **Audience:** XMind users
 
 #### Check it out:
-<a href="/pics-pdfs/XMind_Topics_Samples.pdf" target="_blank">Updating the Lab Website</a>
+<a href="/pics-pdfs/XMind_Topics_Samples.pdf" target="_blank">XMind Samples</a>
