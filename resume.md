@@ -28,7 +28,7 @@ permalink: /Resume
 | Writing & Editing | Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
 | Documentation | Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
 | Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design Literature Search, Scheduling, Research |
-| Software & Tech | Microsoft Office, Adobe InDesign, Google Documents, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc|
+| Software & Tech | Microsoft Office, Adobe InDesign, Google Documents, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc, Agile methods |
 | User Research Methods | Think Aloud, Card Sorting, Tree Testing, Field Studies |
 | Markup Languages | XML, Markdown, HTML, CSS |
 | Programming Languages | Experience with source code written in Java and JavaScript |
