@@ -8,12 +8,6 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="toc-container">
-    <div class="toc-contents">
-    {% include toc.html html=content h_max=2 %}
-    </div>
-  </div>
-
   <div class="post-content">
         {{ content }}
   </div>
