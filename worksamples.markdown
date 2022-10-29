@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work Samples
+title: My Work
 nav: yes
 permalink: /Work Samples/
 ---
