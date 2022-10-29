@@ -50,9 +50,24 @@ permalink: /Resume
 ## Experience
 ---
 <br>
+### HashiCorp
+
+**Technical Writer** &#124; June 2021 - present
+
+I work on the Terraform and Packer products. Major projects include:
+
+- [CDK for Terraform](https://www.terraform.io/cdktf): I led the engineering team through a complete documentation restructure and migrated the content from GitHub to the Terraform documentation site. This included reorganizing existing content as well as identifying and filling content gaps.
+
+- [HCP Packer](https://cloud.hashicorp.com/docs/packer): I planned, developed, and delivered this documentation set from start to finish to support both the beta and General Availability (GA) HCP Packer launches. While designing the documentation, I provided usability feedback to the engineering team.
+
+- Versioned Documentation: Acted as the project manager for a large, cross-functional initiative to deliver versioned documentation for 7 Terraform products. Gathered requirements, developed the rollout plan, garnered approvals, and consistently communicated plans and project status to stakeholders. Worked with web development team and engineering leads to understand how to integrate versioning into existing product release processes. Tested prototypes and provided feedback to improve the user experience.
+
+I also create templates and other resources to empower engineering teams to create user-centered content for new features.
+
+<br>
 ### Aurora Innovation
 
-**Communications Manager** &#124; Mar 2021 – Present
+**Communications Manager** &#124; Mar 2021 – June 2021
 - Develop strategic communications plans that drive engagement and alignment across 1600+ employees
 - Plan, develop, and manage technical content for company newsletter, company All Hands, and employee website
 - Draft clear, compelling talking points for company leaders to keep employees informed about company progress, acquisitions, and integration activities
