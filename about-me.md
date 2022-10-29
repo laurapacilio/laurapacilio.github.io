@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About Me
-nav: yes
 permalink: /About-Me
 ---
-
-# Nice to meet you!
-
-I'm Laura, a Pittsburgh, PA native (go Steelers!) who loves hiking, gardening, reading, and (of course) writing. Fun fact: I skipped math my senior year of high school so I could squeeze in more English electives. I love books, but my all-time favorites continue to be Wuthering Heights and Brave New World.
+<img src="pics-pdfs/Headshot.jpg" alt="Pacilio-headshot" width="300"/>
+<br>
+<br>
+I'm Laura, a Pittsburgh, PA native (go Steelers!) who loves hiking, gardening, reading, and (of course) writing. Fun fact: I skipped math my senior year of high school so I could squeeze in more English electives. My all-time favorite books continue to be Wuthering Heights and Brave New World.
 
 ## Why I love being a writer in tech
 
