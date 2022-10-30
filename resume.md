@@ -9,7 +9,7 @@ permalink: /Resume
 ---
 <br>
 I have **10+ years** creating a wide range of technical content for an equally wide range of audiences, including scientists, software engineers, and end users.
-* User advocate who uses **metric and user research** to guide content strategy
+* User advocate who uses **metrics and user research** to guide content strategy
 * Experience designing and implementing **information architecture** from the ground up
 * Understands **agile software development** teams, practices, and tools
 * Consistently builds strong relationships with engineering, product management, and SMEs
