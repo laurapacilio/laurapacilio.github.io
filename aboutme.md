@@ -14,17 +14,17 @@ Fun Fact: I skipped math my senior year of high school so I could squeeze in mor
 
 ## How I became a professional writer
 
-It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex procedures, like calibrating an eye-tracking machine or checking someone's breath carbon dioxide. Then, I taught research assistants to perform these tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
+It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex procedures, like calibrating an eye-tracking machine. Then, I taught research assistants to perform these tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
 
 I was ecstatic when I learned that there were entire jobs revolving around this type of work. An entire career filled with learning cool new things and teaching them to others? Sign me up!
 
 I immediately enrolled in CMU's Masters in Professional Writing program, specializing in scientific and technical content, and I've been a professional writer ever since.
 
-In my first job, I built an entire set of developer docs from the ground up. I didn't know anything about writing software, so I sat on my couch late at night watching videos about databases and reading about APIs. I loved it.
+In my first job, I built an entire set of developer docs from the ground up. I didn't know anything about writing software at first, so I asked a lot of questions and stayed up late watching videos about databases and APIs. I loved it.
 
-In a later job, I developed an internal technical newsletter and helped engineers tell the rest of the company why their work is awesome. I loved that, too.
+In a later job, I developed an internal technical newsletter and helped engineers tell the rest of the company why their work is awesome. I learned all about how self-driving cars "see" at night and how our simulation team developed incredibly realistic on-road scenes for testing. I loved that, too.
 
-Throughout my career, I've also written UI copy, blog posts, step-by-step manuals, overview pages, documentation templates, and more. I like learning to write new types of content, and I'm always working to expand my portfolio.
+Throughout my career, I've also written UI copy, blog posts, step-by-step manuals, overview pages, documentation templates, and more. I like trying new types of content, and I'm always working to expand my portfolio.
 
 ## Why I love my job
 
