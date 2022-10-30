@@ -32,4 +32,4 @@ I genuinely enjoy a challenge. There is nothing more thrilling than figuring out
 
 I also like that good content helps people. It helps leaders express their ideas clearly. It helps people showcase their incredible ideas. It helps people excel at work. For example, I love imagining the relief on users' faces when they find a well-written article that fixes their problem.
 
-Finally, working in tech is just *so cool*. I've had the privilege of writing about some of the most transformative topics and products of our generation. That kind of work preserves my sense of wonder and makes me excited about the future.   
+Finally, working in tech is just *so cool*. I've had the privilege of writing about some of the most transformative topics and products of our generation. My work preserves my sense of wonder and makes me excited about the future.   
