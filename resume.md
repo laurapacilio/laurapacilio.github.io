@@ -8,13 +8,13 @@ permalink: /Resume
 ## Summary
 ---
 <br>
-I have **10+ years** creating a wide range of technical content for an equally wide range of audiences, including scientists, software engineers, and end users.
+I have **10+ years** creating a wide range of technical content for an equally wide range of audiences, including developer docs, blogs, website copy, and UI text.
 * User advocate who uses **metrics and user research** to guide content strategy
 * Experience designing and implementing **information architecture** from the ground up
 * Understands **agile software development** teams, practices, and tools
 * Consistently builds strong relationships with engineering, product management, and SMEs
 * Strong **project management skills** to deliver large, multi-stage projects
-* Passionate about learning technology and making it accessible to others
+* Passionate about learning technology and making it accessible
 <br><br>
 <br>
 
