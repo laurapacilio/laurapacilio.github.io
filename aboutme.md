@@ -8,7 +8,7 @@ permalink: /AboutMe/
 <img src="/pics-pdfs/Headshot.jpg" alt="Pacilio-headshot" width="300"/>
 
 <br>
-I'm a Pennsylvania native (go Steelers!) who loves hiking, gardening, reading, and (of course) writing. My all-time favorite books continue to be Wuthering Heights and Brave New World.
+I'm a Pennsylvania native who loves hiking, gardening, reading, and (of course) writing. My all-time favorite books continue to be Wuthering Heights and Brave New World.
 
 Fun Fact: I skipped math my senior year of high school so I could squeeze in more English electives.
 
