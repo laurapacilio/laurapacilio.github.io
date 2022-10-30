@@ -70,14 +70,12 @@ I also create templates and other resources to empower engineering teams to crea
 - Develop strategic communications plans that drive engagement and alignment across 1600+ employees
 - Plan, develop, and manage technical content for company newsletter, company All Hands, and employee website
 - Draft clear, compelling talking points for company leaders to keep employees informed about company progress, acquisitions, and integration activities
-- Coordinate with marketing and external communications teams to identify and develop compelling technical content for blogs and social media
 
 **Technical Copywriter** &#124; Jul 2019 – Mar 2021
-- Worked with 10+ engineering leads to develop and publish internal communications, including a weekly engineering newsletter designed to educate the company about ongoing technical progress.
-- Lead technical content development for company-wide All Hands meetings. This included proposing topics, shaping key messages and story flow, helping to find and refine relevant visuals, refining slide content, and coaching presenters.
+- Worked with 10+ engineering leads to develop and publish internal communications, including a weekly newsletter designed to educate the company about technical progress.
+- Lead technical content development for company-wide All Hands meetings. This includes proposing topics, shaping key messages and story flow, helping to find and refine relevant visuals, refining slide content, and coaching presenters.
 - Proposed, researched, and wrote blog posts and social media copy about Aurora's technology. Collaborated with marketing team to generate visuals that brought each story to life.
-- Co-led cross-functional effort to redesign and expand company Intranet. This included developing the project schedule, developing the site information architecture, working with cross-functional teams to develop content, and collaborating with our UX team to conduct user research and suggest data-driven improvements.
-- Documented the design and functionality of autonomy software modules. For example, I worked with engineering leads to develop "Atlas Engineering 101," a primer on how Aurora's self-driving maps are created and represented in the codebase.
+- Documented the design and functionality of autonomy software modules. For example, I worked with engineering leads to develop "Atlas Engineering 101," a primer on how Aurora's self-driving maps were created and represented in the codebase.
 - Drafted copy for the Technology section of Aurora's public website. For example, content describing various components of the Aurora Driver.
 - Edited critical customer-facing product requirements documentation for grammar, clarity, and consistency.
 
@@ -88,7 +86,6 @@ I also create templates and other resources to empower engineering teams to crea
 **Technical Writer II** &#124; Sep 2018 – Jul 2019
 - Designed and wrote end-user documentation for an internal suite of mapping applications, including on-boarding, inline help, and user manuals.
 - Led visual and information design of internal department wiki and collaborated with 10+ teams to gather and refine content.
-- Pair programmed to implement in-app documentation features, such as tooltip on-boarding tours and dynamic help content.
 - Collaborated with engineering, testing, and management to coordinate and standardize documentation efforts.
 - Conducted user research to determine information needs and test the clarity and completeness of documentation.
 
@@ -111,7 +108,7 @@ I also create templates and other resources to empower engineering teams to crea
 **Writer & Communications Coordinator** &#124; Jan 2015 – May 2016
 Department of Psychology
 - Co-developed information architecture for new undergraduate website
-- Wrote and developed content for undergraduate website and newsletter, including faculty and student profiles, descriptions of research projects, and promotional materials for the Psychology undergraduate program (research opportunities for students, coursework descriptions, etc.)
+- Wrote and developed content for undergraduate website and newsletter, including faculty and student profiles, descriptions of research projects, and promotional materials for the Psychology undergraduate program (research opportunities for students, coursework descriptions, and more)
 
 <br>
 
@@ -127,7 +124,6 @@ Department of Psychology, Behavioral Health Research Lab
 - Coordinated research studies, including contacting and scheduling over 200 participants
 - Managed up to 5 undergraduate research assistants
 - Monitored data collection, processing, and entry from 5 research projects
-see less
 
 <br>
 
