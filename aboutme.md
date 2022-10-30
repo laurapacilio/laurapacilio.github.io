@@ -16,7 +16,7 @@ Fun Fact: I skipped math my senior year of high school so I could squeeze in mor
 
 It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex procedures, like calibrating an eye-tracking machine, and teaching research assistants to perform those tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
 
-I was ecstatic when I learned that there were entire jobs revolving around this type of work. A career filled with learning cool new things and teaching them to others? Sign me up!
+I was ecstatic when I learned that there were entire jobs revolving around this type of work. A career filled with learning and sharing cool new things? Sign me up!
 
 I immediately enrolled in CMU's Masters in Professional Writing program, specializing in scientific and technical content, and I've been a professional writer ever since.
 
