@@ -13,7 +13,7 @@ I have **10+ years** creating a wide range of technical content for an equally w
 * Experience designing and implementing **information architecture** from the ground up
 * Understands **agile software development** teams, practices, and tools
 * Consistently builds strong relationships with engineering, product management, and SMEs
-* Strong **project management skills** to deliver large, multistage projects
+* Strong **project management skills** to deliver large, multi-stage projects
 * Passionate about learning technology and making it accessible to others
 <br><br>
 <br>
