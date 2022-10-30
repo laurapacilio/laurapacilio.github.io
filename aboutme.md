@@ -30,6 +30,6 @@ Throughout my career, I've also written UI copy, blog posts, step-by-step manual
 
 I genuinely enjoy a challenge. There is nothing more thrilling than figuring out how to solve a big, amorphous problem. The tech space offers a lot of these types of opportunities.
 
-I also like that good content helps people. It helps leaders express their vision clearly. It helps people share their incredible inventions. It helps people excel at work. For example, I love imagining the relief on users' faces when they find a well-written article that fixes their problem.
+I also like that good content helps people. It helps leaders express their vision clearly. It helps people share their inventions. It helps people excel at work. For example, I love imagining the relief on users' faces when they find a well-written article that fixes their problem.
 
 Finally, working in tech is just *so cool*. I've had the privilege of writing about some of the most transformative topics and products of our generation. My work preserves my sense of wonder and makes me excited about the future.   
