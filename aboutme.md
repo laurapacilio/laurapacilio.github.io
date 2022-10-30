@@ -10,7 +10,7 @@ permalink: /AboutMe/
 <br>
 I'm a Pennsylvania native (go Steelers!) who loves hiking, gardening, reading, and (of course) writing. My all-time favorite books continue to be Wuthering Heights and Brave New World.
 
-Fun fact: I skipped math my senior year of high school so I could squeeze in more English electives.
+Fun Fact: I skipped math my senior year of high school so I could squeeze in more English electives.
 
 ## How I became a professional writer
 
