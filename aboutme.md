@@ -14,7 +14,7 @@ Fun Fact: I skipped math my senior year of high school so I could squeeze in mor
 
 ## How I became a professional writer
 
-It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex tools (like an eye tracker) and procedures (like checking someone's breath carbon dioxide). Then, I taught research assistants to perform these tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
+It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex procedures, like calibrating an eye-tracking machine or checking someone's breath carbon dioxide. Then, I taught research assistants to perform these tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
 
 I was ecstatic when I learned that there were entire jobs revolving around this type of work. An entire career filled with learning cool new things and teaching them to others? Sign me up!
 
