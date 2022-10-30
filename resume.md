@@ -8,14 +8,13 @@ permalink: /Resume
 ## Summary
 ---
 <br>
-* **Ten years** of creating a wide range of technical materials (journal research papers, API docs, knowledge bases, blog posts) for an equally wide range of audiences (scientists, software engineers, end users, etc.)
-* A proven history of advocating for the user experience and leveraging **user research** to guide documentation strategy
+I have **10+ years** creating a wide range of technical content for an equally wide range of audiences, including scientists, software engineers, and end users.
+* User advocate who uses **user research and metrics** to guide documentation strategy
 * Experience designing and implementing **information architecture** from the ground up
-* Experience working closely with engineering teams and SMEs
-* Experience with **agile** software development teams, practices, and tools
-* Ability to work cross-functionally to deliver large, multistage projects
-* Excellent interpersonal and analytic skills
-* Enthusiasm for learning new technology and making it accessible to others
+* Understands **agile** software development teams, practices, and tools
+* Consistently builds strong relationships with engineering, product management, and SMEs
+* Strong **project management skills** to deliver large, multistage projects
+* Passionate about learning technology and making it accessible to others
 <br><br>
 <br>
 
@@ -29,7 +28,7 @@ permalink: /Resume
 | Documentation | Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
 | Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design Literature Search, Scheduling, Research |
 | Software & Tech | Microsoft Office, Adobe InDesign, Google Documents, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc, Agile methods |
-| User Research Methods | Think Aloud, Card Sorting, Tree Testing, Field Studies |
+| User Research Methods | Think Aloud, Card Sorting, Field Studies |
 | Markup Languages | XML, Markdown, HTML, CSS |
 | Programming Languages | Experience with source code written in Java and JavaScript |
 

@@ -6,7 +6,7 @@ permalink: /AboutMe/
 ---
 
 <img src="/pics-pdfs/Headshot.jpg" alt="Pacilio-headshot" width="300"/>
-<br>
+
 <br>
 I'm a Pennsylvania native (go Steelers!) who loves hiking, gardening, reading, and (of course) writing. My all-time favorite books continue to be Wuthering Heights and Brave New World.
 
@@ -20,10 +20,12 @@ Then I learned that there were entire jobs that revolved around this type of wor
 
 I immediately enrolled in CMU's Masters in Professional Writing program, specialized in scientific and technical content, and have been a professional writer ever since.
 
-My role at each organization has varied. In my first job, I built an entire set of developer docs from the ground up. Later, I developed an internal engineering newsletter and helped engineers show the rest of the company why their work is awesome. I've written UI copy, blog posts, and step-by-step manuals.
+My role at each organization has varied. In my first job, I built an entire set of developer docs from the ground up. Later, I developed an internal engineering newsletter and helped engineers show the rest of the company why their work is awesome. Throughout my career, I've written UI copy, blog posts, step-by-step manuals, overview pages, documentation templates, and more. I'm always looking to expand my experience to new content types.
 
 ## Why I love my job
 
-I genuinely enjoy a challenge. There is nothing more thrilling than building from the ground up or figuring out how to solve a big, amorphous problem. There are a lot of those opportunities in the tech space. I've also discovered that I'm happiest when my work is helping people. Sometimes that's engineering saying "Thank you! This is exactly what I was hoping for!" after I edit their work, and sometimes it's watching the relief on someone's face when I point them to well-written instructions.
+I genuinely enjoy a challenge. There is nothing more thrilling than building from the ground up or figuring out how to solve a big, amorphous problem. The tech space offers a lot of these types of opportunities.
 
-Good content is invaluable in every industry, and tech is no exception. But communicating well in writing is hard. I'm proud that I can remove that burden so critical products, expertise, and ideas can make the most impact.
+I also like that good content helps people. It helps leaders express their ideas clearly. It helps people showcase their incredible ideas. It helps people excel at work. For example, I love imagining the relief on users' faces when they find a well-written article that fixes their problem.
+
+Finally, working in tech is just *so cool*. I've had the privilege of writing about some of the most transformative topics and products of our generation. Contributing to those efforts is amazing. It makes me excited about the future.
