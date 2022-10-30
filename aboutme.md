@@ -16,15 +16,15 @@ Fun fact: I skipped math my senior year of high school so I could squeeze in mor
 
 It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. A huge part of my job was learning complex tools (like an eye tracker) and procedures (like checking someone's breath carbon dioxide). Then, I taught research assistants to perform these tasks flawlessly with hundreds of participants. This process involved *a lot* of in-person training and thorough documentation.
 
-Then I learned that there were entire jobs revolving around this type of work. An entire career filled with learning cool new things and teaching them to others? Sign me up!
+I was ecstatic when I learned that there were entire jobs revolving around this type of work. An entire career filled with learning cool new things and teaching them to others? Sign me up!
 
 I immediately enrolled in CMU's Masters in Professional Writing program, specializing in scientific and technical content, and I've been a professional writer ever since.
 
-Each role has brought new opportunities to expand my skills. In my first job, I built an entire set of developer docs from the ground up. I didn't know anything about writing software, so I sat on my couch late at night watching videos about databases and reading about APIs. I loved it.
+In my first job, I built an entire set of developer docs from the ground up. I didn't know anything about writing software, so I sat on my couch late at night watching videos about databases and reading about APIs. I loved it.
 
 In a later job, I developed an internal technical newsletter and helped engineers tell the rest of the company why their work is awesome. I loved that, too.
 
-Throughout my career, I've written UI copy, blog posts, step-by-step manuals, overview pages, documentation templates, and more. I am always excited about trying new types of content, and I'm still expanding my portfolio.
+Throughout my career, I've also written UI copy, blog posts, step-by-step manuals, overview pages, documentation templates, and more. I like learning to write new types of content, and I'm always working to expand my portfolio.
 
 ## Why I love my job
 
