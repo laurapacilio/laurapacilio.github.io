@@ -29,7 +29,7 @@ HashiCorp Terraform is one of the most widely-used infrastructure as code tools 
 These pull requests (on GitHub) show how I revise existing content and address feedback from engineering.
 * <a href="https://github.com/hashicorp/terraform/pull/31849" target="_blank">Update workspace documentation</a>
 * <a href="https://github.com/hashicorp/terraform/pull/30772" target="_blank">PreConditions and PostConditions content updates</a>
-* <a href="https://github.com/hashicorp/terraform-docs-agents/pull/17" target="_blank">Run Agents Revamp</a>
+* <a href="https://github.com/hashicorp/terraform-docs-agents/pull/17" target="_blank">Cloud Agents Revamp</a>
 
 #### Documentation Samples
 Documentation changes over time as a product grows and evolves. I took some snapshots of pages directly after I worked on them so you can get a better sense of my contributions.
