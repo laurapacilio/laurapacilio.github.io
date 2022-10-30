@@ -106,7 +106,9 @@ I also create templates and other resources to empower engineering teams to crea
 ### Carnegie Mellon University
 
 **Writer & Communications Coordinator** &#124; Jan 2015 – May 2016
+
 Department of Psychology
+
 - Co-developed information architecture for new undergraduate website
 - Wrote and developed content for undergraduate website and newsletter, including faculty and student profiles, descriptions of research projects, and promotional materials for the Psychology undergraduate program (research opportunities for students, coursework descriptions, and more)
 
