@@ -8,13 +8,13 @@ permalink: /Resume
 ## Summary
 ---
 <br>
-I have **10+ years** creating a wide range of technical content for an equally wide range of audiences, including developer docs, blogs, website copy, and UI text.
+I have **10+ years** creating a wide range of content for technical audiences, including developer docs, blogs, website copy, and UI text.
 * User advocate who uses **metrics and user research** to guide content strategy
 * Experience designing and implementing **information architecture** from the ground up
 * Understands **agile software development** teams, practices, and tools
 * Consistently builds strong relationships with engineering, product management, and SMEs
 * Strong **project management skills** to deliver large, multi-stage projects
-* Passionate about learning technology and making it accessible
+* Passionate about learning and explaining new technology
 <br><br>
 <br>
 
@@ -49,27 +49,34 @@ I have **10+ years** creating a wide range of technical content for an equally w
 ## Experience
 ---
 <br>
+### Stedi
+
+**Content Marketing Writer** &#124; January 2023 - present
+
+I am responsible for all customer-facing content that is not technical documentation. I write website copy, blog posts, customer success stories, and more.
+
+<br>
 ### HashiCorp
 
-**Technical Writer** &#124; June 2021 - present
+**Technical Writer** &#124; June 2021 - December 2022
 
-I work on the Terraform and Packer products. Major projects include:
+I worked on the Terraform and Packer products. Major projects included:
 
 - [CDK for Terraform](https://www.terraform.io/cdktf): I led the engineering team through a complete documentation restructure and migrated the content from GitHub to the Terraform documentation site. This included reorganizing existing content as well as identifying and filling content gaps.
 
 - [HCP Packer](https://cloud.hashicorp.com/docs/packer): I planned, developed, and delivered this documentation set from start to finish to support both the beta and General Availability (GA) HCP Packer launches. While designing the documentation, I provided usability feedback to the engineering team.
 
-- Versioned Documentation: Acted as the project manager for a large, cross-functional initiative to deliver versioned documentation for 7 Terraform products. Gathered requirements, developed the rollout plan, garnered approvals, and consistently communicated plans and project status to stakeholders. Worked with web development team and engineering leads to understand how to integrate versioning into existing product release processes. Tested prototypes and provided feedback to improve the user experience.
+- Versioned Documentation: I acted as the project manager for a large, cross-functional initiative to deliver versioned documentation for 7 Terraform products. Gathered requirements, developed the rollout plan, garnered approvals, and consistently communicated plans and project status to stakeholders. Worked with web development team and engineering leads to understand how to integrate versioning into existing product release processes. Tested prototypes and provided feedback to improve the user experience.
 
-I also create templates and other resources to empower engineering teams to create user-centered content for new features.
+I also created templates and other resources to empower engineering teams to create user-centered content for new features.
 
 <br>
 ### Aurora Innovation
 
 **Communications Manager** &#124; Mar 2021 – June 2021
-- Develop strategic communications plans that drive engagement and alignment across 1600+ employees
-- Plan, develop, and manage technical content for company newsletter, company All Hands, and employee website
-- Draft clear, compelling talking points for company leaders to keep employees informed about company progress, acquisitions, and integration activities
+- Developed strategic communications plans that drove engagement and alignment across 1600+ employees
+- Planned, developed, and managed technical content for company newsletter, company All Hands, and employee website
+- Drafted clear, compelling talking points for company leaders to keep employees informed about company progress, acquisitions, and integration activities
 
 **Technical Copywriter** &#124; Jul 2019 – Mar 2021
 - Worked with 10+ engineering leads to develop and publish internal communications, including a weekly newsletter designed to educate the company about technical progress.
