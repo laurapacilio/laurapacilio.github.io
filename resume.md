@@ -51,9 +51,9 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 <br>
 ### Stedi
 
-**Content Marketing Writer** &#124; January 2023 - present
+**Content Marketing & Technical Writing** &#124; January 2023 - present
 
-I am responsible for all customer-facing content that is not technical documentation. I write website copy, blog posts, customer success stories, and more.
+I am responsible for planning, drafting, and editing all customer-facing content. I write social media copy, website copy, blog posts, customer success stories, technical documentation, and more. I also work with leadership to develop the messaging and marketing strategy for product launches.
 
 <br>
 ### HashiCorp
