@@ -5,16 +5,15 @@ nav: yes
 permalink: /Work Samples/
 ---
 <br>
-## Blog Writing - Self-Driving Technology
+## Blog Writing - B2B Software
 ---
 <br>
-At Aurora, part of my job involved writing stories demystifying self-driving technology for the public blog. For each, I met with engineering stakeholders to learn deeply technical concepts and collaborated with the marketing team to bring the story to life. Below are a few of my favorites.
-* **Written:** October 2019 - May 2020
-* **Audience:** Prospective Aurora engineering hires and interested members of the public
+I am responsible for all customer-facing copy at Stedi, which includes company blog posts. I worked directly with product management and the leadership team to draft the following post announcing that Stedi offers free, public EDI specifications for every X12 HIPAA transaction set. I also worked with the team to ensure the post furthers our marketing goals, including using this as an opportunity to demonstrate the value of our Stedi Guides product. I created all of the visuals for the post and drafted corresponding social media copy for the announcement.
+* **Written:** February 2023
+* **Audience:** Potential Stedi customers
 
-#### Read them on Aurora's website:
-* <a href="https://aurora.tech/blog/perception-at-aurora-no-measurement-left-behind" target="_blank">Perception at Aurora: No Measurement Left Behind</a>
-* <a href="https://aurora.tech/blog/fmcw-lidar-the-self-driving-game-changer" target="_blank">FMCW Lidar: The Self-Driving Game-changer</a>
+#### Read it on Stedi's website:
+* <a href="https://www.stedi.com/blog/introducing-stedis-x12-hipaa-guides" target="_blank">Introducing Stedi's X12 HIPAA Guides</a>
 
 <br><br>
 
@@ -44,7 +43,7 @@ Documentation changes over time as a product grows and evolves. I took some snap
 ---
 <br>
 I led the development of all documentation for the HashiCorp Cloud Platform (HCP) Packer Beta and General Availability launches. I worked with engineering and product marketing to make sure the content was technically accurate and aligned with our marketing messaging. I also acquired configuration examples and used them to test the product before launch.
-and collaborated with the marketing team to bring the story to life. Below are a few of my favorites.
+and collaborated with the marketing team to bring the story to life.
 * **Written:** August 2021 - April 2022
 * **Audience:** Practitioners with some familiarity with HashiCorp Packer (technical audience)
 
@@ -58,20 +57,13 @@ You can read the full docs on HashiCorp's website: <a href="https://developer.ha
 
 <br><br>
 
-
-## Technical Writing - recBoat User Manual
+## Blog Writing - Self-Driving Technology
 ---
+<br>
+At Aurora, part of my job involved writing stories demystifying self-driving technology for the public blog. For each, I met with engineering stakeholders to learn deeply technical concepts and collaborated with the marketing team to bring the story to life. Below are a few of my favorites.
+* **Written:** October 2019 - May 2020
+* **Audience:** Prospective Aurora engineering hires and interested members of the public
 
-While in graduate school, I was contracted to work on a short-term project for a
-research group at the National Robotics Engineering Center (NREC). The group
-needed an operations manual for an autonomous research vessel called recBoat. I
-met with the engineering team, learned the processes, and then worked with them
-to acquire photographs that would illustrate the tasks. Below, I include an excerpt
-from the manual.
-
-* **Written:** September 2015
-* **Audience:** recBoat users who have some prior experience and an intermediate level
-of knowledge of boat operations
-
-#### Check it out:
-<a href="/pics-pdfs/recBoat_Sample.pdf" target="_blank">recBoat User Manual Excerpt</a>
+#### Read them on Aurora's website:
+* <a href="https://aurora.tech/blog/perception-at-aurora-no-measurement-left-behind" target="_blank">Perception at Aurora: No Measurement Left Behind</a>
+* <a href="https://aurora.tech/blog/fmcw-lidar-the-self-driving-game-changer" target="_blank">FMCW Lidar: The Self-Driving Game-changer</a>
