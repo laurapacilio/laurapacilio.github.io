@@ -43,7 +43,6 @@ Documentation changes over time as a product grows and evolves. I took some snap
 ---
 <br>
 I led the development of all documentation for the HashiCorp Cloud Platform (HCP) Packer Beta and General Availability launches. I worked with engineering and product marketing to make sure the content was technically accurate and aligned with our marketing messaging. I also acquired configuration examples and used them to test the product before launch.
-and collaborated with the marketing team to bring the story to life.
 * **Written:** August 2021 - April 2022
 * **Audience:** Practitioners with some familiarity with HashiCorp Packer (technical audience)
 
