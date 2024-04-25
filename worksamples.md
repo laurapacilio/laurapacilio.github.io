@@ -9,6 +9,7 @@ permalink: /Work Samples/
 ---
 <br>
 I worked with engineering to draft the following post about how Stedi found an access vulnerability in Amazon Web Services (AWS) STS. The work involved meeting with engineering to understand the story, reviewing _a lot_ of Amazon documentation to make sure I understood the key concepts involved in IAM access controls and role trust policies, and turning engineering's retrospective report into a full story that contained enough context for readers. This has been one of my favorite projects to date! The post has been quite popular amongst the engineering community, garnering 50k + impressions on X (formerly Twitter) and 1.5k impressions on LinkedIn ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7183857288653217794)).
+
 * **Written:** January 2024
 * **Audience:** Software engineers
 
@@ -20,6 +21,7 @@ I worked with engineering to draft the following post about how Stedi found an a
 ---
 <br>
 I am responsible for all customer-facing copy at Stedi, which includes company blog posts. I worked directly with product management and the leadership team to draft the following post announcing that Stedi offers free, public EDI specifications for every X12 HIPAA transaction set. I also worked with the team to ensure the post furthers our marketing goals, including using this as an opportunity to demonstrate the value of our Stedi Guides product. I created all of the visuals for the post and drafted corresponding social media copy for the announcement.
+
 * **Written:** February 2023
 * **Audience:** Potential Stedi customers
 
