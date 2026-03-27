@@ -23,13 +23,13 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 
 | Category      | Skills |
 | ----------- | ----------- |
-| Writing & Editing | Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
+| Writing & Editing | API Docs, Developer Docs, Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
 | Documentation | Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
-| Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design Literature Search, Scheduling, Research |
-| Software & Tech | Microsoft Office, Adobe InDesign, Google Documents, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc, Agile methods |
+| Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design, Literature Search, Scheduling, Research |
+| Software & Tech | Microsoft Office, Adobe InDesign, Google Docs, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc, Agile methods |
 | User Research Methods | Think Aloud, Card Sorting, Field Studies |
 | Markup Languages | XML, Markdown, HTML, CSS |
-| Programming Languages | Experience with source code written in Java and JavaScript |
+| AI tools | Claude Code, GitHub Copilot, ChatGPT |
 
 <br><br>
 <br>
@@ -50,9 +50,15 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 <br>
 ### Stedi
 
-**Content Marketing & Technical Writing** &#124; January 2023 - present
+**Technical Writer** &#124; January 2023 - present
 
-I am responsible for planning, drafting, and editing all customer-facing content. I write social media copy, website copy, blog posts, customer success stories, technical documentation, and more. I also work with leadership to develop the messaging and marketing strategy for product launches.
+I write, architect, and maintain all of Stedi's API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs). 
+
+From Jan 2023 to April 2025, I also published technical marketing content to support our GTM efforts. This included:
+- 10+ customer case studies
+- 15+ product announcements for new features and APIs.
+- Hundreds of changelog entries announcing new features and products
+- Multiple engineering blog posts. This is one of my favorites - "We discovered an AWS access vulnerability": https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability
 
 <br>
 ### HashiCorp
