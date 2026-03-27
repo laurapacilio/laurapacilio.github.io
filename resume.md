@@ -23,10 +23,10 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 
 | Category      | Skills |
 | ----------- | ----------- |
-| Writing & Editing | API Docs, Developer Docs, Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
-| Documentation | Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
+| Writing & Editing | Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
+| Documentation | API Docs, Developer Docs, Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
 | Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design, Literature Search, Scheduling, Research |
-| Software & Tech | Microsoft Office, Adobe InDesign, Google Docs, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Atom, Git, GitHub, Javadoc, Agile methods |
+| Software & Tech | Microsoft Office, Adobe InDesign, Google Docs, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Git, GitHub, Javadoc, Agile methods |
 | User Research Methods | Think Aloud, Card Sorting, Field Studies |
 | Markup Languages | XML, Markdown, HTML, CSS |
 | AI tools | Claude Code, GitHub Copilot, ChatGPT |
