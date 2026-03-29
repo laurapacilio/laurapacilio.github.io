@@ -9,6 +9,8 @@ I'm a Pennsylvania native who loves hiking, gardening, reading, and (of course) 
 
 Fun Fact: I skipped math my senior year of high school so I could squeeze in more English electives.
 
+<img src="/pics-pdfs/about-me.jpg" alt="Laura Pacilio" style="width: 100%; height: 450px; object-fit: cover; object-position: center; display: block; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-top: 30px; margin-bottom: 30px;" />
+
 ## How I became a professional writer
 
 It started at Carnegie Mellon University (CMU), where I was a Lab Manager orchestrating multi-stage research studies on stress, meditation, and smoking. I routinely taught research assistants to perform complex procedures (like calibrating an eye-tracking machine) flawlessly with hundreds of participants. As you can imagine, my job involved writing *a lot* of thorough documentation.

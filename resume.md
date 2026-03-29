@@ -4,22 +4,16 @@ title: Resume
 nav: yes
 permalink: /Resume
 ---
-<br>
-## Summary
----
-<br>
 I have **10+ years** creating a wide range of content for technical audiences, including developer docs, blogs, website copy, and UI text.
 * Experience designing and implementing **information architecture** from the ground up
 * Understands **agile software development** teams, practices, and tools
 * Consistently builds strong relationships with engineering, product management, and SMEs
 * Strong **project management skills** to deliver large, multi-stage projects
 * Passionate about learning and explaining new technology
-<br><br>
-<br>
+
+
 
 ## Skills
----
-<br>
 
 | Category      | Skills |
 | ----------- | ----------- |
@@ -31,28 +25,26 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 | Markup Languages | XML, Markdown, HTML, CSS |
 | AI tools | Claude Code, GitHub Copilot, ChatGPT |
 
-<br><br>
-<br>
+
+
 
 ## Education
----
-<br>
+
 **Master of Arts** &#124; Professional Writing &#124; Carnegie Mellon University &#124; 2016
 
 **Bachelor of Science** &#124; Psychology &#124; Carnegie Mellon University &#124; 2011
 
 
-<br><br>
-<br>
+
+
 
 ## Experience
----
-<br>
+
 ### Stedi
 
 **Technical Writer** &#124; January 2023 - present
 
-I write, architect, and maintain all of Stedi's API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs). 
+I write, architect, and maintain all of Stedi's API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs).
 
 From Jan 2023 to April 2025, I also published technical marketing content to support our GTM efforts. This included:
 - 10+ customer case studies
@@ -60,7 +52,7 @@ From Jan 2023 to April 2025, I also published technical marketing content to sup
 - Hundreds of changelog entries announcing new features and products
 - Multiple engineering blog posts. This is one of my favorites - "We discovered an AWS access vulnerability": https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability
 
-<br>
+
 ### HashiCorp
 
 **Technical Writer** &#124; June 2021 - December 2022
@@ -75,7 +67,7 @@ I worked on the Terraform and Packer products. Major projects included:
 
 I also created templates and other resources to empower engineering teams to create user-centered content for new features.
 
-<br>
+
 ### Aurora Innovation
 
 **Communications Manager** &#124; Mar 2021 – June 2021
@@ -91,7 +83,7 @@ I also created templates and other resources to empower engineering teams to cre
 - Drafted copy for the Technology section of Aurora's public website. For example, content describing various components of the Aurora Driver.
 - Edited critical customer-facing product requirements documentation for grammar, clarity, and consistency.
 
-<br>
+
 
 ### Uber Advanced Technologies Group
 
@@ -101,7 +93,7 @@ I also created templates and other resources to empower engineering teams to cre
 - Collaborated with engineering, testing, and management to coordinate and standardize documentation efforts.
 - Conducted user research to determine information needs and test the clarity and completeness of documentation.
 
-<br>
+
 
 ### Leidos
 
@@ -110,10 +102,10 @@ I also created templates and other resources to empower engineering teams to cre
 - Interviewed developers to learn technical concepts and acquire code samples in both Java (backend) and JavaScript (frontend)
 - Generated marketing content for an internal web application framework, such as fact sheets, presentations, and product overviews
 - Created and maintained release notes
-- Helped to improve and manage the office’s recruiting pipeline
+- Helped to improve and manage the office's recruiting pipeline
 - Represented Leidos at community events and career fairs
 
-<br>
+
 
 ### Carnegie Mellon University
 
@@ -124,7 +116,7 @@ Department of Psychology
 - Co-developed information architecture for new undergraduate website
 - Wrote and developed content for undergraduate website and newsletter, including faculty and student profiles, descriptions of research projects, and promotional materials for the Psychology undergraduate program (research opportunities for students, coursework descriptions, and more)
 
-<br>
+
 
 **Lab Manager** &#124; Jun 2014 – May 2016
 
@@ -139,7 +131,7 @@ Department of Psychology, Behavioral Health Research Lab
 - Managed up to 5 undergraduate research assistants
 - Monitored data collection, processing, and entry from 5 research projects
 
-<br>
+
 
 **Lab Manager** &#124; May 2011 – Jun 2014
 
@@ -151,4 +143,3 @@ Department of Psychology, Health and Human Performance Lab
 - Coordinated undergraduate work schedules and testing schedules for multiple research projects
 - Recruited and tested over 300 participants for research projects
 - Trained and supervised up to 12 undergraduate research assistants
-see less

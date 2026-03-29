@@ -10,13 +10,13 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$text-color:       #4A3530 !default;
+$background-color: #F5F2EE !default;
+$brand-color:      #8E6A6E !default;
 
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color:       #D6C2A1 !default;
+$grey-color-light: lighten($grey-color, 10%) !default;
+$grey-color-dark:  darken($grey-color, 30%) !default;
 
 $table-text-align: left !default;
 
@@ -50,24 +50,96 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+// Color overrides
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4E343A;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+a {
+  color: #C97A2B;
+
+  &:hover {
+    color: #4E343A;
+  }
+}
+
+.site-header {
+  background-color: #F5F2EE;
+  border-top: none;
+  border-bottom: 1px solid #D6C2A1;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+
+  .site-title,
+  .site-title:visited {
+    color: #4E343A;
+  }
+
+  .page-link {
+    color: #4E343A;
+
+    &:hover {
+      color: #8E6A6E;
+    }
+  }
+}
+
+.site-footer {
+  background-color: #F5F2EE;
+  border-top: 1px solid #D6C2A1;
+  padding: 20px 0;
+  color: #4E343A;
+
+  .footer-col-wrapper {
+    color: #4E343A;
+  }
+
+  .svg-icon {
+    fill: #4E343A;
+  }
+
+  a {
+    color: #4E343A;
+
+    &:hover {
+      color: #8E6A6E;
+    }
+  }
+}
+
 // Home page intro layout
+
+.post-title {
+  display: none;
+}
 
 .home-intro {
   display: flex;
   align-items: flex-start;
-  gap: 40px;
+  gap: 25px;
+  margin-top: 20px;
 }
 
 .home-intro-text {
-  flex: 1 1 55%;
+  flex: 1 1 52%;
 }
 
 .home-intro-photo {
-  flex: 0 0 42%;
+  flex: 0 0 44%;
+  padding-top: 10px;
 
   img {
     width: 100%;
-    border-radius: 4px;
+    height: 500px;
+    object-fit: cover;
+    object-position: top;
+    clip-path: inset(0 0 20% 0 round 8px);
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
     display: block;
   }
 }
@@ -84,10 +156,42 @@ $on-laptop:        800px !default;
   }
 }
 
+// Skills table
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: none;
+
+  td, th {
+    border: none;
+    padding: 8px 14px;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tr {
+    background-color: transparent !important;
+  }
+
+  td {
+    color: #4A3530;
+  }
+
+  td:first-child {
+    font-weight: bold;
+    color: #4E343A;
+    white-space: nowrap;
+    padding-right: 24px;
+  }
+}
+
 // Custom CSS for table of contents
 
 .toc-container {
-  background-color: #F0F0F0;
+  background-color: #EDE7E0;
   padding-top: 5px;
   padding-bottom: 5px;
 }
