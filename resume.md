@@ -37,8 +37,9 @@ Throughout my career, I have:
 
 
 
-
 ## Experience
+
+<div class="work-entry" markdown="1">
 
 ### Stedi
 
@@ -52,6 +53,9 @@ From 2023 to 2025, I also owned all technical marketing content until the scope 
 - Hundreds of changelog entries announcing new features and products.
 - Multiple engineering blog posts, including <a href="https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability" target="_blank">We discovered an AWS access vulnerability</a>
 
+</div>
+
+<div class="work-entry" markdown="1">
 
 ### HashiCorp
 
@@ -65,6 +69,9 @@ As the dedicated technical writer for Terraform and Packer, I owned the document
 
 - Versioned Documentation: Led a cross-functional initiative to deliver versioned documentation for 7 Terraform products, managing requirements, rollout planning, stakeholder communication, and UX feedback.
 
+</div>
+
+<div class="work-entry" markdown="1">
 
 ### Aurora Innovation
 
@@ -75,7 +82,9 @@ As the dedicated technical writer for Terraform and Packer, I owned the document
 - Documented autonomy software modules, including "Atlas Engineering 101," a primer on how Aurora's self-driving maps were built.
 - Drafted copy for the Technology section of Aurora's public website.
 
+</div>
 
+<div class="work-entry" markdown="1">
 
 ### Uber Advanced Technologies Group
 
@@ -86,7 +95,9 @@ As the dedicated technical writer for Terraform and Packer, I owned the document
 - Led visual and information design of an internal department wiki, collaborating with 10+ teams to gather and refine content.
 - Conducted user research to identify information needs and validate the clarity and completeness of documentation.
 
+</div>
 
+<div class="work-entry" markdown="1">
 
 ### Leidos
 
@@ -95,7 +106,9 @@ As the dedicated technical writer for Terraform and Packer, I owned the document
 - Interviewed developers to learn technical concepts and acquire code samples in both Java (backend) and JavaScript (frontend).
 - Wrote marketing content for an internal web application framework, including fact sheets, presentations, and product overviews.
 
+</div>
 
+<div class="work-entry" markdown="1">
 
 ### Carnegie Mellon University
 
@@ -119,3 +132,5 @@ Department of Psychology, Health and Human Performance Lab
 - Coauthored two manuscripts published in top psychology journals.
 - Composed and edited detailed data processing manuals, including a 50-page fMRI data processing and analysis manual.
 - Trained and supervised up to 12 undergraduate research assistants.
+
+</div>
