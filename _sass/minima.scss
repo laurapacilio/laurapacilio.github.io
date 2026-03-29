@@ -50,6 +50,40 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+// Home page intro layout
+
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.home-intro-text {
+  flex: 1 1 55%;
+}
+
+.home-intro-photo {
+  flex: 0 0 42%;
+
+  img {
+    width: 100%;
+    border-radius: 4px;
+    display: block;
+  }
+}
+
+@include media-query($on-palm) {
+  .home-intro {
+    flex-direction: column;
+  }
+
+  .home-intro-photo {
+    img {
+      width: 180px;
+    }
+  }
+}
+
 // Custom CSS for table of contents
 
 .toc-container {
