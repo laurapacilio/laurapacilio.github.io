@@ -17,6 +17,8 @@ I've had the privilege of working for startups where roles are fluid, and each p
 
 Most importantly, I'm a nerd who gets really excited about new tech and helping people use it.
 
+<a href="/Work Samples/" class="cta-button">View my work</a>
+
   </div>
   <div class="home-intro-photo">
     <img src="/pics-pdfs/headshot.jpg" alt="Laura Pacilio headshot" />
