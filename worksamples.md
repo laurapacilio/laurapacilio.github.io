@@ -11,7 +11,7 @@ I've spent the majority of my career writing developer documentation. Below are 
 
 ### Stedi Clearinghouse
 
-I write, architect, and maintain all of Stedi's API reference and product docs using a docs-as-code workflow. The docs include API reference, product guides, and troubleshooting steps, written for developers and healthcare providers.
+I write, architect, and maintain all of Stedi's API reference and product docs using a docs-as-code workflow. The docs include API reference, product guides, and troubleshooting steps.
 
 * **Written:** January 2023 - present
 * **Audience:** Software developers and healthcare providers
