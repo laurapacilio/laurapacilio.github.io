@@ -4,12 +4,13 @@ title: Resume
 nav: yes
 permalink: /Resume
 ---
-I have **10+ years** creating a wide range of content for technical audiences, including developer docs, blogs, website copy, and UI text.
-* Experience designing and implementing **information architecture** from the ground up
-* Understands **agile software development** teams, practices, and tools
-* Consistently builds strong relationships with engineering, product management, and SMEs
-* Strong **project management skills** to deliver large, multi-stage projects
-* Passionate about learning and explaining new technology
+I have **10+ years** creating a wide range of content for technical audiences, including developer docs, API reference, blogs, website copy, and UI text.
+
+Throughout my career, I have:
+* Designed and implemented **information architecture** from the ground up.
+* Built strong relationships with engineering, product management, and SMEs.
+* Delivered large, multi-stage projects end to end.
+* Developed and maintained **public-facing developer documentation** and API reference for fast-growing SaaS companies.
 
 
 
@@ -17,13 +18,12 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 
 | Category      | Skills |
 | ----------- | ----------- |
-| Writing & Editing | Document Design, Instructional Writing, Science Writing, Technical Writing, Task-based Writing, Grant Writing, News Writing, Proofreading, Editing|
-| Documentation | API Docs, Developer Docs, Single Sourcing, Topic-Based Authoring, Information Architecture, UI Copy |
-| Professional | Management, Project Planning, Data Analysis, Interviewing SMEs, Experimental Design, Literature Search, Scheduling, Research |
-| Software & Tech | Microsoft Office, Adobe InDesign, Google Docs, Google Sheets, Google Forms, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Eclipse, Git, GitHub, Javadoc, Agile methods |
-| User Research Methods | Think Aloud, Card Sorting, Field Studies |
+| Writing & Editing | Technical Writing, Instructional Writing, Document Design, Proofreading, Editing |
+| Documentation | API Docs, Developer Docs, Information Architecture, UI Copy, Docs-as-Code |
+| Professional | Management, Project Planning, Interviewing SMEs, Research |
+| Software & Tech | Google Docs, Google Sheets, Atlassian JIRA, Atlassian Confluence, Atlassian Bitbucket, Git, GitHub, GitHub Pages, Javadoc, OpenAPI, Figma |
 | Markup Languages | XML, Markdown, HTML, CSS |
-| AI tools | Claude Code, GitHub Copilot, ChatGPT |
+| AI Tools | Claude Code, GitHub Copilot, ChatGPT |
 
 
 
@@ -44,66 +44,56 @@ I have **10+ years** creating a wide range of content for technical audiences, i
 
 **Technical Writer** &#124; January 2023 - present
 
-I write, architect, and maintain all of Stedi's API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs).
+I write, architect, and maintain all of Stedi's API reference and product docs using a docs-as-code workflow: [https://www.stedi.com/docs](https://www.stedi.com/docs).
 
-From Jan 2023 to April 2025, I also published technical marketing content to support our GTM efforts. This included:
+From 2023 to 2025, I also owned all technical marketing content until the scope grew to require a dedicated hire. This included:
 - 10+ customer case studies
 - 15+ product announcements for new features and APIs.
-- Hundreds of changelog entries announcing new features and products
-- Multiple engineering blog posts. This is one of my favorites - "We discovered an AWS access vulnerability": https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability
+- Hundreds of changelog entries announcing new features and products.
+- Multiple engineering blog posts, including <a href="https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability" target="_blank">We discovered an AWS access vulnerability</a>
 
 
 ### HashiCorp
 
 **Technical Writer** &#124; June 2021 - December 2022
 
-I worked on the Terraform and Packer products. Major projects included:
+As the dedicated technical writer for Terraform and Packer, I owned the documentation end to end. Major projects included:
 
 - [CDK for Terraform](https://www.terraform.io/cdktf): I led the engineering team through a complete documentation restructure and migrated the content from GitHub to the Terraform documentation site. This included reorganizing existing content as well as identifying and filling content gaps.
 
 - [HCP Packer](https://cloud.hashicorp.com/docs/packer): I planned, developed, and delivered this documentation set from start to finish to support both the beta and General Availability (GA) HCP Packer launches. While designing the documentation, I provided usability feedback to the engineering team.
 
-- Versioned Documentation: I acted as the project manager for a large, cross-functional initiative to deliver versioned documentation for 7 Terraform products. Gathered requirements, developed the rollout plan, garnered approvals, and consistently communicated plans and project status to stakeholders. Worked with web development team and engineering leads to understand how to integrate versioning into existing product release processes. Tested prototypes and provided feedback to improve the user experience.
-
-I also created templates and other resources to empower engineering teams to create user-centered content for new features.
+- Versioned Documentation: Led a cross-functional initiative to deliver versioned documentation for 7 Terraform products, managing requirements, rollout planning, stakeholder communication, and UX feedback.
 
 
 ### Aurora Innovation
 
-**Communications Manager** &#124; Mar 2021 – June 2021
-- Developed strategic communications plans that drove engagement and alignment across 1600+ employees
-- Planned, developed, and managed technical content for company newsletter, company All Hands, and employee website
-- Drafted clear, compelling talking points for company leaders to keep employees informed about company progress, acquisitions, and integration activities
-
-**Technical Copywriter** &#124; Jul 2019 – Mar 2021
-- Worked with 10+ engineering leads to develop and publish internal communications, including a weekly newsletter designed to educate the company about technical progress.
-- Lead technical content development for company-wide All Hands meetings. This includes proposing topics, shaping key messages and story flow, helping to find and refine relevant visuals, refining slide content, and coaching presenters.
-- Proposed, researched, and wrote blog posts and social media copy about Aurora's technology. Collaborated with marketing team to generate visuals that brought each story to life.
-- Documented the design and functionality of autonomy software modules. For example, I worked with engineering leads to develop "Atlas Engineering 101," a primer on how Aurora's self-driving maps were created and represented in the codebase.
-- Drafted copy for the Technology section of Aurora's public website. For example, content describing various components of the Aurora Driver.
-- Edited critical customer-facing product requirements documentation for grammar, clarity, and consistency.
+**Technical Copywriter** &#124; Jul 2019 – Jun 2021 *(promoted to Communications Manager, Mar 2021)*
+- Partnered with 10+ engineering leads to develop a weekly internal newsletter demystifying technical progress for a 1600+ person company.
+- Led content development for company-wide All Hands meetings, including shaping key messages, refining slides, and coaching presenters.
+- Researched and wrote public blog posts and social media copy about Aurora's self-driving technology.
+- Documented autonomy software modules, including "Atlas Engineering 101," a primer on how Aurora's self-driving maps were built.
+- Drafted copy for the Technology section of Aurora's public website.
 
 
 
 ### Uber Advanced Technologies Group
 
+*This position was with Uber's Advanced Technologies Group (ATG), which has since been acquired by Aurora.*
+
 **Technical Writer II** &#124; Sep 2018 – Jul 2019
-- Designed and wrote end-user documentation for an internal suite of mapping applications, including on-boarding, inline help, and user manuals.
-- Led visual and information design of internal department wiki and collaborated with 10+ teams to gather and refine content.
-- Collaborated with engineering, testing, and management to coordinate and standardize documentation efforts.
-- Conducted user research to determine information needs and test the clarity and completeness of documentation.
+- Designed and wrote end-user documentation for an internal suite of mapping applications, including onboarding guides, inline help, and user manuals.
+- Led visual and information design of an internal department wiki, collaborating with 10+ teams to gather and refine content.
+- Conducted user research to identify information needs and validate the clarity and completeness of documentation.
 
 
 
 ### Leidos
 
 **Software Documentation Specialist** &#124; Jun 2016 – Aug 2018
-- Created and maintained resources for software developers, including a knowledge base with over 70 articles, a QuickStart guide, and an SDK
-- Interviewed developers to learn technical concepts and acquire code samples in both Java (backend) and JavaScript (frontend)
-- Generated marketing content for an internal web application framework, such as fact sheets, presentations, and product overviews
-- Created and maintained release notes
-- Helped to improve and manage the office's recruiting pipeline
-- Represented Leidos at community events and career fairs
+- Created and maintained developer resources including a 70+ article knowledge base, a QuickStart guide, an SDK, and release notes.
+- Interviewed developers to learn technical concepts and acquire code samples in both Java (backend) and JavaScript (frontend).
+- Wrote marketing content for an internal web application framework, including fact sheets, presentations, and product overviews.
 
 
 
@@ -111,35 +101,21 @@ I also created templates and other resources to empower engineering teams to cre
 
 **Writer & Communications Coordinator** &#124; Jan 2015 – May 2016
 
-Department of Psychology
-
-- Co-developed information architecture for new undergraduate website
-- Wrote and developed content for undergraduate website and newsletter, including faculty and student profiles, descriptions of research projects, and promotional materials for the Psychology undergraduate program (research opportunities for students, coursework descriptions, and more)
-
-
+- Co-developed information architecture for the Psychology department's undergraduate website.
+- Wrote content for the website and newsletter, including faculty profiles, research project descriptions, and program promotional materials.
 
 **Lab Manager** &#124; Jun 2014 – May 2016
 
 Department of Psychology, Behavioral Health Research Lab
 
-- Edited grant proposals and publications
-- Learned new software and technology and wrote usage instructions for other lab members
-- Created and maintained laboratory website (using Adobe Dreamweaver)
-- Conducted statistical analyses on collected study data (using IBM SPSS Statistics and Microsoft Excel)
-- Developed materials (research procedures, stimuli, etc.) for new research projects
-- Coordinated research studies, including contacting and scheduling over 200 participants
-- Managed up to 5 undergraduate research assistants
-- Monitored data collection, processing, and entry from 5 research projects
-
-
+- Wrote usage instructions and documentation for lab software and technology.
+- Edited grant proposals and publications.
+- Managed up to 5 undergraduate research assistants.
 
 **Lab Manager** &#124; May 2011 – Jun 2014
 
 Department of Psychology, Health and Human Performance Lab
-- Coauthored two manuscripts published in top psychology journals
-- Composed and edited detailed data processing manuals, including 50-page functional magnetic resonance imaging (fMRI) data processing and analysis manual
-- Drafted and edited experimental protocols, research grant applications, and manuscripts
-- Developed methodology, materials, and stimuli for new research projects
-- Coordinated undergraduate work schedules and testing schedules for multiple research projects
-- Recruited and tested over 300 participants for research projects
-- Trained and supervised up to 12 undergraduate research assistants
+
+- Coauthored two manuscripts published in top psychology journals.
+- Composed and edited detailed data processing manuals, including a 50-page fMRI data processing and analysis manual.
+- Trained and supervised up to 12 undergraduate research assistants.
