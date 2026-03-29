@@ -9,7 +9,9 @@ permalink: /Work Samples/
 
 I've spent the majority of my career writing developer documentation. Below are some examples.
 
-### Stedi Clearinghouse
+<div class="work-entry" markdown="1">
+
+### Stedi clearinghouse
 
 I write, architect, and maintain all of Stedi's API reference and product docs using a docs-as-code workflow. The docs include API reference, product guides, and troubleshooting steps.
 
@@ -19,6 +21,10 @@ I write, architect, and maintain all of Stedi's API reference and product docs u
 #### Documentation Samples
 * <a href="https://www.stedi.com/docs/healthcare" target="_blank">Developer Docs</a>
 * <a href="https://www.stedi.com/docs/healthcare/api-reference" target="_blank">API Reference</a>
+
+</div>
+
+<div class="work-entry" markdown="1">
 
 ### HashiCorp Terraform
 
@@ -39,6 +45,10 @@ Documentation changes over time as a product grows and evolves. I took some snap
 * <a href="/pics-pdfs/Health%20-%20Terraform%20Cloud%20_%20Terraform%20_%20HashiCorp%20Developer.html" target="_blank">Health - Terraform Cloud</a>
 * <a href="/pics-pdfs/Defining%20Policies%20-%20Open%20Policy%20Agent%20-%20Terraform%20Cloud%20_%20Terraform%20_%20HashiCorp%20Developer.html" target="_blank">Defining OPA Policies</a>
 
+</div>
+
+<div class="work-entry" markdown="1">
+
 ### HCP Packer
 
 I led the development of all documentation for the HashiCorp Cloud Platform (HCP) Packer Beta and General Availability launches. I worked with engineering and product marketing to make sure the content was technically accurate and aligned with our marketing messaging. I also acquired configuration examples and used them to test the product before launch.
@@ -53,9 +63,13 @@ Documentation changes over time as a product grows and evolves. I took snapshots
 
 You can read the full docs on HashiCorp's website: <a href="https://developer.hashicorp.com/hcp/docs/packer" target="_blank">What is HCP Packer?</a>
 
+</div>
+
 # Technical Content Marketing
 
 I've also written technical marketing content for a range of audiences and purposes. Below are some examples.
+
+<div class="work-entry" markdown="1">
 
 ### Engineering Blog
 
@@ -66,6 +80,10 @@ I worked with engineering to draft the following post about how Stedi found an a
 
 #### Read it on Stedi's website:
 * <a href="https://www.stedi.com/blog/stedi-discovered-an-aws-access-vulnerability" target="_blank">We discovered an AWS access vulnerability</a>
+
+</div>
+
+<div class="work-entry" markdown="1">
 
 ### Product Announcement
 
@@ -80,6 +98,10 @@ I collaborated with product management and leadership at Stedi to write product 
 * <a href="https://www.stedi.com/blog/introducing-stedis-payers-api" target="_blank">Introducing Stedi's Payers API</a>
 * <a href="https://www.stedi.com/blog/introducing-stedi-s-batch-eligibility-check-api" target="_blank">Introducing Stedi's Batch Eligibility Check API</a>
 
+</div>
+
+<div class="work-entry" markdown="1">
+
 ### Self-Driving Technology
 
 Part of my job at Aurora involved writing stories demystifying self-driving technology for the public blog. For each, I met with engineering stakeholders to learn deeply technical concepts and collaborated with the marketing team to bring the story to life. Below are a few of my favorites.
@@ -90,3 +112,5 @@ Part of my job at Aurora involved writing stories demystifying self-driving tech
 #### Read them on Aurora's website:
 * <a href="https://aurora.tech/blog/perception-at-aurora-no-measurement-left-behind" target="_blank">Perception at Aurora: No Measurement Left Behind</a>
 * <a href="https://aurora.tech/blog/fmcw-lidar-the-self-driving-game-changer" target="_blank">FMCW Lidar: The Self-Driving Game-changer</a>
+
+</div>

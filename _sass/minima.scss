@@ -53,7 +53,7 @@ $on-laptop:        800px !default;
 // Color overrides
 
 h1, h2, h3, h4, h5, h6 {
-  color: #4E343A;
+  color: #4A3238;
 }
 
 h2 {
@@ -61,10 +61,14 @@ h2 {
 }
 
 a {
-  color: #C97A2B;
+  color: #A9656C;
+
+  &:visited {
+    color: #A9656C;
+  }
 
   &:hover {
-    color: #4E343A;
+    color: #4A3238;
   }
 }
 
@@ -76,11 +80,11 @@ a {
 
   .site-title,
   .site-title:visited {
-    color: #4E343A;
+    color: #4A3238;
   }
 
   .page-link {
-    color: #4E343A;
+    color: #4A3238;
 
     &:hover {
       color: #8E6A6E;
@@ -92,18 +96,18 @@ a {
   background-color: #F5F2EE;
   border-top: 1px solid #D6C2A1;
   padding: 20px 0;
-  color: #4E343A;
+  color: #4A3238;
 
   .footer-col-wrapper {
-    color: #4E343A;
+    color: #4A3238;
   }
 
   .svg-icon {
-    fill: #4E343A;
+    fill: #4A3238;
   }
 
   a {
-    color: #4E343A;
+    color: #4A3238;
 
     &:hover {
       color: #8E6A6E;
@@ -162,6 +166,46 @@ h1 + p {
   margin-bottom: 30px;
 }
 
+.post-content h1 {
+  font-size: 1.4em;
+  color: #4A3238;
+  border-bottom: 2px solid #C4A8AD;
+  padding-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 24px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.work-entry {
+  background-color: #E7E3DA;
+  border-radius: 14px;
+  padding: 22px 26px;
+  margin-bottom: 28px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.14);
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #4A3238;
+  }
+
+  h4 {
+    margin-top: 18px;
+    margin-bottom: 6px;
+    color: #4A3238;
+  }
+
+  ul {
+    margin-bottom: 6px;
+  }
+
+  p:last-child,
+  ul:last-child {
+    margin-bottom: 0;
+  }
+}
+
 h3 {
   margin-top: 40px;
 }
@@ -192,7 +236,7 @@ table {
 
   td:first-child {
     font-weight: bold;
-    color: #4E343A;
+    color: #4A3238;
     white-space: nowrap;
     padding-right: 24px;
   }
