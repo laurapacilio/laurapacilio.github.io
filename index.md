@@ -9,7 +9,7 @@ title: Home
 <div class="home-intro">
   <div class="home-intro-text" markdown="1">
 
-I have **10+ years of experience** crafting clear and concise developer documentation, API reference, blog posts, and website copy for technical audiences.
+I've spent **10+ years** crafting clear and concise developer docs, API reference, technical blogs, and website copy.
 
 I *really* like working with developers, and I consistently build strong relationships across product and engineering to source and refine information.
 
