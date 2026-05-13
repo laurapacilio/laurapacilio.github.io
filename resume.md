@@ -45,7 +45,13 @@ Throughout my career, I have:
 
 **Technical Writer** &#124; January 2023 - present
 
-I write, architect, and maintain all of Stedi's API reference and product docs using a docs-as-code workflow: [https://www.stedi.com/docs](https://www.stedi.com/docs).
+I lead developer documentation at Stedi, writing and maintaining all API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs).
+
+Day-to-day, I:
+- Collaborate with product and engineering to develop docs for product launches and features
+- Work closely with SMEs and customer support to identify documentation gaps and create clear, actionable guidance that answers user questions
+- Provide usability feedback to improve the developer experience
+- Use AI tools and docs-as-code workflows to accelerate docs production and maintenance
 
 From 2023 to 2025, I also owned all technical marketing content until the scope grew to require a dedicated hire. This included:
 - 10+ customer case studies
