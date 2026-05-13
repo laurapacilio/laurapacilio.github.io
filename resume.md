@@ -47,7 +47,7 @@ Throughout my career, I have:
 
 I lead developer documentation at Stedi, writing and maintaining all API reference and product docs: [https://www.stedi.com/docs](https://www.stedi.com/docs).
 
-Day-to-day, I:
+I regularly:
 - Collaborate with product and engineering to develop docs for product launches and features
 - Work closely with SMEs and customer support to identify documentation gaps and create clear, actionable guidance that answers user questions
 - Provide usability feedback to improve the developer experience
