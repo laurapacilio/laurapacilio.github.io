@@ -73,7 +73,7 @@ I've also written technical marketing content for a range of audiences and purpo
 
 ### Engineering Blog
 
-I worked with engineering to draft the following post about how Stedi found an access vulnerability in Amazon Web Services (AWS) STS. The work involved meeting with engineering to understand the story, reviewing _a lot_ of Amazon documentation to make sure I understood the key concepts involved in IAM access controls and role trust policies, and turning engineering's retrospective report into a full story that contained enough context for readers. This has been one of my favorite projects to date! The post has been quite popular amongst the engineering community, garnering 50k + impressions on X (formerly Twitter) and 1.5k impressions on LinkedIn ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7183857288653217794)).
+I worked with engineering to write a post about how Stedi discovered an access vulnerability in AWS STS. This involved deep-diving into IAM access controls and role trust policies, then turning engineering's retrospective into a story with enough context for a broad audience. The post garnered 50k+ impressions on X and 1.5k on LinkedIn.
 
 * **Written:** January 2024
 * **Audience:** Software engineers
