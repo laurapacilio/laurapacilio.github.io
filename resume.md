@@ -53,6 +53,8 @@ Day-to-day, I:
 - Provide usability feedback to improve the developer experience
 - Use AI tools and docs-as-code workflows to accelerate docs production and maintenance
 
+&nbsp;
+
 From 2023 to 2025, I also owned all technical marketing content until the scope grew to require a dedicated hire. This included:
 - 10+ customer case studies
 - 15+ product announcements for new features and APIs.
